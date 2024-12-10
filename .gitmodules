@@ -1,4 +1,4 @@
-[submodule "AfganToolbox"]
+[submodule "RobustToolbox"]
 	path = AfganToolbox
 	url = https://github.com/SuperGovno-studio/AfganToolbox.git
 	branch = master
